@@ -1,17 +1,13 @@
-# TypeScript Template
+# Aula 25 - Orientação a Objetos
 
-Pacotes instalados:
-
-```json
-  ...
-  "devDependencies": {
-    "@types/node": "^22.10.1",
-    "nodemon": "^3.1.7",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.7.2"
-  },
-  "dependencies": {
-    "@codeea/scanner": "^1.0.3"
-  }
-  ...
-```
+[x] classes
+[x] objetos
+[x] atributos
+[x] tipos de dados (string, number, boolean, null, undefined)
+[x] métodos (getters, setters) e propriedades
+[x] modificadores de acesso (private, public, protected)
+[/] encapsulamento e agregação;
+[ ] conceitos de herança
+[ ] interfaces
+[ ] polimorfismo
+[ ] tratamento de erros e exceções;
