@@ -8,7 +8,7 @@
 - [x] modificadores de acesso (private, public, protected)
 - [x] encapsulamento
 - [x] conceitos de herança
-- [ ] agregação;
+- [x] agregação;
 - [ ] interfaces
 - [ ] polimorfismo (classes abstratas, sobrecarga e sobrescrita de métodos)
 - [ ] tratamento de erros e exceções;
