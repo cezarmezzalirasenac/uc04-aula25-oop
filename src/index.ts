@@ -15,7 +15,8 @@ pessoa.idade = 35;
 const quadrado = new Quadrado([1, 1, 1, 1]);
 quadrado.dimensoes = [1, 2, 3, 4];
 
-const forma2 = new Forma("Triangulo", [1, 2, 3], 3);
+const forma2 = new Forma([1, 2, 3, 4]);
+console.log(forma2.nome);
 
 // Criação do objeto triangulo
 const triangulo = new Triangulo([1, 2, 3]);

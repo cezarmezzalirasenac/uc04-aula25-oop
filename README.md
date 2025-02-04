@@ -6,8 +6,9 @@
 - [x] tipos de dados (string, number, boolean, null, undefined)
 - [x] métodos (getters, setters) e propriedades
 - [x] modificadores de acesso (private, public, protected)
-- [/] encapsulamento e agregação;
-- [ ] conceitos de herança
+- [x] encapsulamento
+- [x] conceitos de herança
+- [ ] agregação;
 - [ ] interfaces
 - [ ] polimorfismo
 - [ ] tratamento de erros e exceções;
