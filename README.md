@@ -10,5 +10,5 @@
 - [x] conceitos de herança
 - [ ] agregação;
 - [ ] interfaces
-- [ ] polimorfismo
+- [ ] polimorfismo (classes abstratas, sobrecarga e sobrescrita de métodos)
 - [ ] tratamento de erros e exceções;
