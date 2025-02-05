@@ -9,6 +9,9 @@
 - [x] encapsulamento
 - [x] conceitos de herança
 - [x] agregação;
-- [ ] interfaces
-- [ ] polimorfismo (classes abstratas, sobrecarga e sobrescrita de métodos)
+- [x] interfaces
+- [/] polimorfismo
+  - [x] sobrescrita de métodos
+  - [x] sobrecarga
+  - [ ] classes abstratas
 - [ ] tratamento de erros e exceções;
