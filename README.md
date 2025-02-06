@@ -14,4 +14,4 @@
   - [x] sobrescrita de métodos
   - [x] sobrecarga
   - [x] classes abstratas
-- [ ] tratamento de erros e exceções;
+- [x] tratamento de erros e exceções;

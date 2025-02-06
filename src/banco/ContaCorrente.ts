@@ -19,7 +19,7 @@ class ContaCorrente extends Conta implements IConta {
 
   // Definição dos métodos com sobrecarga
   getSaldo(): number;
-  
+
   getSaldo(comLimite: boolean): number;
 
 
@@ -35,7 +35,7 @@ class ContaCorrente extends Conta implements IConta {
     return this._saldoLimite;
   }
 
-  public updateSaldo(valor: number, operacao: "C" | "D") {
+  public updateSaldo(valor: number, operacao: string) {
     switch (operacao) {
       case "C":
         this._saldo += valor;
