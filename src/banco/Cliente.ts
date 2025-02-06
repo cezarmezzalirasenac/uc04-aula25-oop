@@ -1,15 +1,12 @@
 class Cliente {
-  private _nome: string;
-  private _documento?: string | number;
-  private _email: string;
-  private _dataNascimento: Date;
   private _tipoDocumento?: "CPF" | "CNPJ";
-
-  constructor(nome: string, email: string, dataNascimento: Date) {
-    this._nome = nome;
-    this._email = email;
-    this._dataNascimento = dataNascimento;
-  }
+  private _documento?: string | number;
+  
+  constructor(
+    private _nome: string,
+    private _email: string,
+    private _dataNascimento: Date
+  ) {}
 
   // Declaro as assinaturas possíveis
   setDocumento(documento: string): void;
@@ -25,7 +22,7 @@ class Cliente {
   }
 
   public setCPF(documento: number) {
-    this._tipoDocumento = "CPF"
+    this._tipoDocumento = "CPF";
     this._documento = documento;
   }
 }

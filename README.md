@@ -13,5 +13,5 @@
 - [/] polimorfismo
   - [x] sobrescrita de métodos
   - [x] sobrecarga
-  - [ ] classes abstratas
+  - [x] classes abstratas
 - [ ] tratamento de erros e exceções;
